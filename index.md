@@ -32,14 +32,15 @@
 
 ### Upcoming talks
 
-### Books contributed to
-* Microservice Architecture: Aligning Principles, Practices, and Culture - O’Reilly<br/><http://transform.ca.com/API-microservice-architecture-oreilly-book.html>
-
 ### Articles
 * JavaSpektrum - Preisbewertungstool<br/><http://www.sigs-datacom.de/fachzeitschriften/javaspektrum/archiv/artikelansicht/artikel-titel/data-science-produktiv-ein-neues-datengetriebenes-preisbewertungstool.html>
 * InfoQ - AutoScout24’s Journey to Microservices: Christian Deger on Transformation, Principles and Technology<br/><https://www.infoq.com/news/2016/02/autoscout-microservices>
 * JAXenter - "Beim Übergang zu Microservices geht es nicht nur um einen Technologiewechsel" - Interview mit Christian Deger<br/><https://jaxenter.de/beim-uebergang-zu-microservices-geht-es-nicht-nur-um-einen-technologiewechsel-34188>
-* DZone (mentioned) - Staging Servers Are Dead!<br/><https://dzone.com/articles/staging-servers-are-dead>
+
+### Mentioned
+* Microservice Architecture: Aligning Principles, Practices, and Culture - O’Reilly<br/><http://transform.ca.com/API-microservice-architecture-oreilly-book.html>
+* DZone - Staging Servers Are Dead!<br/><https://dzone.com/articles/staging-servers-are-dead>
+* Networkworld - 12 tips on moving enterprises to the cloud: Cultural edition<br/><http://www.networkworld.com/article/3151512/cloud-computing/12-tips-on-moving-enterprises-to-the-cloud-cultural-edition.html>
 
 ### AutoScout24
 * Scout IT Principles<br/><https://github.com/autoscout24/scout24-it-principles>
