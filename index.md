@@ -40,7 +40,7 @@
 ### Mentioned
 * Microservice Architecture: Aligning Principles, Practices, and Culture - O’Reilly<br/><http://transform.ca.com/API-microservice-architecture-oreilly-book.html>
 * DZone - Staging Servers Are Dead!<br/><https://dzone.com/articles/staging-servers-are-dead>
-* Networkworld - 12 tips on moving enterprises to the cloud: Cultural edition<br/><http://www.networkworld.com/article/3151512/cloud-computing/12-tips-on-moving-enterprises-to-the-cloud-cultural-edition.html>
+* Network World - 12 tips on moving enterprises to the cloud: Cultural edition<br/><http://www.networkworld.com/article/3151512/cloud-computing/12-tips-on-moving-enterprises-to-the-cloud-cultural-edition.html>
 
 ### AutoScout24
 * Scout IT Principles<br/><https://github.com/autoscout24/scout24-it-principles>
