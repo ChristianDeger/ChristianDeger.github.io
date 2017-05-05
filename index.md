@@ -11,7 +11,7 @@
 * YouTube Channel<br/><https://www.youtube.com/channel/UCeh0x77J4sv2E1IFMzAEiBw>
 
 ### Public talks
-* DevOpsCon 2016 Munich (07.12.2016)<br/><https://devopsconference.de/session/highway-to-heaven-building-microservices-in-the-cloud/><br/><https://www.youtube.com/watch?v=txY0m9c5M9E>
+* DevOpsCon 2016 Munich (07.12.2016)<br/><https://jaxenter.de/microservices-cloud-devops-deger-56967><br/><https://devopsconference.de/session/highway-to-heaven-building-microservices-in-the-cloud/><br/><https://www.youtube.com/watch?v=txY0m9c5M9E>
 * AWS re:Invent Las Vegas 2016 - "The Enterprise Fast Lane - What Your Competition Doesn't Want You To Know About Enterprise Cloud Transformation"<br/><https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=8099><br/><https://www.youtube.com/watch?v=IHLJVcejDvU>
 * AWS Loft Munich (24.11.2016)<br/>[Tweets](https://twitter.com/search?q=%23awsloft%20%40cdeger)
 * GOTO Berlin (16.11.2016)<br/>[Slides](http://www.slideshare.net/cdeger/goto-berlin-2016)<br/><https://gotocon.com/berlin-2016/presentations/show_talk.jsp?oid=8033>
