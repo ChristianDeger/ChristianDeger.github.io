@@ -31,6 +31,11 @@
 * Microservices Meetup Munich (09.06.2015)<br/><https://www.youtube.com/watch?v=wf91ML8ltGw>
 
 ### Upcoming talks
+* AWS Summit Berlin (18.05.2017)<br/>_Real-time Streaming Applications on AWS, Patterns and Use Cases_<br/>Presenting AutoScout24 Kinesis use cases as co-speaker<br/><https://aws.amazon.com/summits/berlin/sessions/>
+* EAMKON2017 (31.05.2017)<br/>_Micro Services in der Cloud – Mit kulturellem Wandel auf die digitale Überholspur_<br/>[EAMKON Fachkongress 2017 Programm (PDF)](http://www.eamkon.de/image/inhalte/file/EAMKON_Fachkongress_2017.pdf)
+* GOTO Amsterdam 2017 (14.06.2017)<br/>_Enterprise Fast Lane - Transforming to Microservices in the Cloud_<br/><https://gotoams.nl/2017/sessions/219>
+* Predictive Analytics World (13.11.2017)<br/>_Predictive Analytics for Vehicle Price Prediction – Delivered Continuously at AutoScout24_<br/><https://predictiveanalyticsworld.de/de/>
+* GOTO Berlin 2017 (17.11.2017)<br/>_Data Science, Delivered Continuously_
 
 ### Articles
 * Getting Smart: Applying Continuous Delivery to Data Science to Drive Car Sales<br/>[Techblog Scout24](http://techblog.scout24.com/2017/03/getting-smart-applying-continuous-delivery-data-science-drive-car-sales/)<br/>[ThoughtWorks](https://www.thoughtworks.com/insights/blog/getting-smart-applying-continuous-delivery-data-science-drive-car-sales)
