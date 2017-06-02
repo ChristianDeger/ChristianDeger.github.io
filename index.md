@@ -11,6 +11,8 @@
 * YouTube Channel<br/><https://www.youtube.com/channel/UCeh0x77J4sv2E1IFMzAEiBw>
 
 ### Public talks
+* EAMKON2017 (31.05.2017)<br/>_Micro Services in der Cloud – Mit kulturellem Wandel auf die digitale Überholspur_<br/>[EAMKON Fachkongress 2017 Programm (PDF)](http://www.eamkon.de/image/inhalte/file/EAMKON_Fachkongress_2017.pdf)
+* AWS Summit Berlin (18.05.2017)<br/>_Real-time Streaming Applications on AWS, Patterns and Use Cases_<br/>Presenting AutoScout24 Kinesis use cases as co-speaker<br/><https://aws.amazon.com/summits/berlin/presentations2017/><br/>[Slides](http://presentations-berlin-summit-2017.s3-website.eu-central-1.amazonaws.com/NGA1-6_AutoScout24-AWS_Deger_Hausmann_Real-time_Streaming_Applications_on_AWS_Patterns_%20and_Use_Cases.pdf)
 * DevOpsCon 2016 Munich (07.12.2016)<br/><https://jaxenter.de/microservices-cloud-devops-deger-56967><br/><https://devopsconference.de/session/highway-to-heaven-building-microservices-in-the-cloud/><br/><https://www.youtube.com/watch?v=txY0m9c5M9E>
 * AWS re:Invent Las Vegas 2016 - "The Enterprise Fast Lane - What Your Competition Doesn't Want You To Know About Enterprise Cloud Transformation"<br/><https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=8099><br/><https://www.youtube.com/watch?v=IHLJVcejDvU>
 * AWS Loft Munich (24.11.2016)<br/>[Tweets](https://twitter.com/search?q=%23awsloft%20%40cdeger)
@@ -31,8 +33,6 @@
 * Microservices Meetup Munich (09.06.2015)<br/><https://www.youtube.com/watch?v=wf91ML8ltGw>
 
 ### Upcoming talks
-* AWS Summit Berlin (18.05.2017)<br/>_Real-time Streaming Applications on AWS, Patterns and Use Cases_<br/>Presenting AutoScout24 Kinesis use cases as co-speaker<br/><https://aws.amazon.com/summits/berlin/sessions/>
-* EAMKON2017 (31.05.2017)<br/>_Micro Services in der Cloud – Mit kulturellem Wandel auf die digitale Überholspur_<br/>[EAMKON Fachkongress 2017 Programm (PDF)](http://www.eamkon.de/image/inhalte/file/EAMKON_Fachkongress_2017.pdf)
 * GOTO Amsterdam 2017 (14.06.2017)<br/>_Enterprise Fast Lane - Transforming to Microservices in the Cloud_<br/><https://gotoams.nl/2017/sessions/219>
 * Predictive Analytics World (13.11.2017)<br/>_Predictive Analytics for Vehicle Price Prediction – Delivered Continuously at AutoScout24_<br/><https://predictiveanalyticsworld.de/de/>
 * GOTO Berlin 2017 (17.11.2017)<br/>_Data Science, Delivered Continuously_
