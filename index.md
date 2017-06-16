@@ -4,13 +4,16 @@
 * LinkedIn<br/><https://www.linkedin.com/in/christiandeger1>
 * Xing<br/><https://www.xing.com/profile/Christian_Deger2>
 * Twitter<br/>[@cdeger](https://twitter.com/cdeger)
-* about.me:<br/><https://about.me/christian.deger>
+* about.me<br/><https://about.me/christian.deger>
+* SlideShare<br/><https://www.slideshare.net/cdeger/presentations>
 
 ### Microservices Meetup Munich
 * Meetup page<br/><http://www.meetup.com/Microservices-Meetup-Munich/>
 * YouTube Channel<br/><https://www.youtube.com/channel/UCeh0x77J4sv2E1IFMzAEiBw>
 
 ### Public talks
+* GOTO Amsterdam 2017 (14.06.2017)<br/>_Enterprise Fast Lane - Transforming to Microservices in the Cloud_<br/><https://gotoams.nl/2017/sessions/219><br/>
+[Slides](https://www.slideshare.net/cdeger/goto-amsterdam-2017-enterprise-fast-lane)
 * EAMKON2017 (31.05.2017)<br/>_Micro Services in der Cloud – Mit kulturellem Wandel auf die digitale Überholspur_<br/>[EAMKON Fachkongress 2017 Programm (PDF)](http://www.eamkon.de/image/inhalte/file/EAMKON_Fachkongress_2017.pdf)
 * AWS Summit Berlin (18.05.2017)<br/>_Real-time Streaming Applications on AWS, Patterns and Use Cases_<br/>Presenting AutoScout24 Kinesis use cases as co-speaker<br/><https://aws.amazon.com/summits/berlin/presentations2017/><br/>[Slides](http://presentations-berlin-summit-2017.s3-website.eu-central-1.amazonaws.com/NGA1-6_AutoScout24-AWS_Deger_Hausmann_Real-time_Streaming_Applications_on_AWS_Patterns_%20and_Use_Cases.pdf)
 * DevOpsCon 2016 Munich (07.12.2016)<br/><https://jaxenter.de/microservices-cloud-devops-deger-56967><br/><https://devopsconference.de/session/highway-to-heaven-building-microservices-in-the-cloud/><br/><https://www.youtube.com/watch?v=txY0m9c5M9E>
@@ -33,7 +36,6 @@
 * Microservices Meetup Munich (09.06.2015)<br/><https://www.youtube.com/watch?v=wf91ML8ltGw>
 
 ### Upcoming talks
-* GOTO Amsterdam 2017 (14.06.2017)<br/>_Enterprise Fast Lane - Transforming to Microservices in the Cloud_<br/><https://gotoams.nl/2017/sessions/219>
 * Predictive Analytics World (13.11.2017)<br/>_Predictive Analytics for Vehicle Price Prediction – Delivered Continuously at AutoScout24_<br/><https://predictiveanalyticsworld.de/de/>
 * GOTO Berlin 2017 (17.11.2017)<br/>_Data Science, Delivered Continuously_
 
