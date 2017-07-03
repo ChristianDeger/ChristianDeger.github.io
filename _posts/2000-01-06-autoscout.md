@@ -2,7 +2,7 @@
 title: "AutoScout24"
 bg: purple
 color: white
-fa-icon: cloud-upload
+fa-icon: car
 ---
 
 ### AutoScout24
