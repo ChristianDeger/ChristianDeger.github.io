@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Christian Deger"
 keywords:    "Microservices, AWS, Chief Architect, Digital Transformation, Speaker, Architecture, Christian Deger, Christian, Deger"
-description: "Infos and pointers"
+description: "Personal homepage by Christian Deger, Chief Architect at AutoScout24, Organizer of Microservices Meetup Munich and International Speaker"
 source_link: "https://github.com/ChristianDeger/ChristianDeger.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
