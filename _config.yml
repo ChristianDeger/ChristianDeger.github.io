@@ -15,8 +15,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Christian Deger"
-keywords:    "Microservices, AWS, Chief Architect, Digital Transformation, Speaker, Architecture, Christian Deger, Christian, Deger"
-description: "Personal homepage of Christian Deger, Chief Architect at RIO – a Brand of Volkswagen Truck & Bus, Organizer of Microservices Meetup Munich and international speaker"
+keywords:    "Platform, Developer Experience, Microservices, AWS, Chief Architect, Digital Transformation, Speaker, Architecture, Christian Deger, Christian, Deger"
+description: "Personal homepage of Christian Deger, Head of Platform and Architecture at RIO – a Brand of Volkswagen Truck & Bus, Organizer of Microservices Meetup Munich and international speaker"
 source_link: "https://github.com/ChristianDeger/ChristianDeger.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -27,9 +27,9 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
+  blue:      '#0967b9'
+  green:     '#439D0F'
+  purple:    '#a8499f'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
